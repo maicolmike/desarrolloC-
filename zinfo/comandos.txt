@@ -1,0 +1,36 @@
+dotnet new sln -o HospiEnCasa.App
+dotnet new classlib -o HospiEnCasa.App.Dominio
+dotnet new classlib -o HospiEnCasa.App.Persistencia
+dotnet new webapi -o HospiEnCasa.App.Servicios
+dotnet new console -o HospiEnCasa.App.Consola
+
+dotnet new webapp -o HolaWeb.App.Frontend
+dotnet new page -n List -na HolaWeb.App.Frontend.Pages -o .\Pages\Saludos\
+
+tree
+
+// global
+dotnet tool install --global dotnet-ef
+dotnet tool update --global dotnet-ef
+
+//cada proyecto
+dotnet add package Microsoft.EntityFrameworkCore --version 5.0.0
+   // si le sale error, dirigirse al archivo persistencia y localizar HospiEnCasa.app.Persistencia.csproj y estando alli abrirlo con block de notas y modificar <TargetFramework>netstandard2.0</TargetFramework> por <TargetFramework>netstandard2.1</TargetFramework>
+dotnet add package Microsoft.EntityFrameworkCore.Tools --version 5.0.0
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 5.0.0
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 5.0.0
+
+dotnet build
+dotnet run
+
+dotnet add reference ..\HospiEnCasa.App.Dominio\
+
+// se realiza dentro la carpeta de persistencia
+dotnet ef migrations add Entidades --startup-project ..\HospiEnCasa.App.Consola\
+dotnet ef migrations add Inicial --startup-project ..\HospiEnCasa.App.Consola\
+dotnet ef database update --startup-project ..\HospiEnCasa.App.Consola\
+
+
+using Microsoft.EntityFrameworkCore;   // colocarla en las clases cs
+
+

@@ -1,0 +1,7 @@
+protected override void OnConfiguring(DbContextOptionsBuilder options){
+            if (!options.IsConfigured){
+                options.UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = SamuraiTestData");
+
+                //options.UseNpgsql("Host=localhost;Database=my_db;Username=my_user;Password=my_pw");
+            }
+        }

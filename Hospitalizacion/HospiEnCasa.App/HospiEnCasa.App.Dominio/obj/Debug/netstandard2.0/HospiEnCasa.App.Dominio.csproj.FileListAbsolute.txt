@@ -1,0 +1,8 @@
+C:\Users\maicol\Documents\DesarrolloC#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospiEnCasa.App.Dominio.deps.json
+C:\Users\maicol\Documents\DesarrolloC#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospiEnCasa.App.Dominio.dll
+C:\Users\maicol\Documents\DesarrolloC#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospiEnCasa.App.Dominio.pdb
+C:\Users\maicol\Documents\DesarrolloC#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.csprojAssemblyReference.cache
+C:\Users\maicol\Documents\DesarrolloC#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\maicol\Documents\DesarrolloC#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.AssemblyInfo.cs
+C:\Users\maicol\Documents\DesarrolloC#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.dll
+C:\Users\maicol\Documents\DesarrolloC#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.pdb
