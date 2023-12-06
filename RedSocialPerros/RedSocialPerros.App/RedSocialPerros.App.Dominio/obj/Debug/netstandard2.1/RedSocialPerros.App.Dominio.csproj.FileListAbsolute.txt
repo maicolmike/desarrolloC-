@@ -1,8 +1,0 @@
-C:\Users\maicol\Documents\DesarrolloC#\RedSocialPerros\RedSocialPerros.App\RedSocialPerros.App.Dominio\obj\Debug\netstandard2.1\RedSocialPerros.App.Dominio.csprojAssemblyReference.cache
-C:\Users\maicol\Documents\DesarrolloC#\RedSocialPerros\RedSocialPerros.App\RedSocialPerros.App.Dominio\obj\Debug\netstandard2.1\RedSocialPerros.App.Dominio.AssemblyInfoInputs.cache
-C:\Users\maicol\Documents\DesarrolloC#\RedSocialPerros\RedSocialPerros.App\RedSocialPerros.App.Dominio\obj\Debug\netstandard2.1\RedSocialPerros.App.Dominio.AssemblyInfo.cs
-C:\Users\maicol\Documents\DesarrolloC#\RedSocialPerros\RedSocialPerros.App\RedSocialPerros.App.Dominio\bin\Debug\netstandard2.1\RedSocialPerros.App.Dominio.deps.json
-C:\Users\maicol\Documents\DesarrolloC#\RedSocialPerros\RedSocialPerros.App\RedSocialPerros.App.Dominio\bin\Debug\netstandard2.1\RedSocialPerros.App.Dominio.dll
-C:\Users\maicol\Documents\DesarrolloC#\RedSocialPerros\RedSocialPerros.App\RedSocialPerros.App.Dominio\bin\Debug\netstandard2.1\RedSocialPerros.App.Dominio.pdb
-C:\Users\maicol\Documents\DesarrolloC#\RedSocialPerros\RedSocialPerros.App\RedSocialPerros.App.Dominio\obj\Debug\netstandard2.1\RedSocialPerros.App.Dominio.dll
-C:\Users\maicol\Documents\DesarrolloC#\RedSocialPerros\RedSocialPerros.App\RedSocialPerros.App.Dominio\obj\Debug\netstandard2.1\RedSocialPerros.App.Dominio.pdb
